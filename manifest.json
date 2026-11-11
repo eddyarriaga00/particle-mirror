@@ -1,7 +1,7 @@
 {
-  "name": "Particle Mirror",
-  "short_name": "Mirror",
-  "description": "See yourself as thousands of glowing particles.",
+  "name": "Pocket Galaxy",
+  "short_name": "Galaxy",
+  "description": "A 3D galaxy you spin with a thumb. Every star is a project or commit.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
